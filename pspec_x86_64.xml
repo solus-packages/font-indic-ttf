@@ -1,0 +1,100 @@
+<PISI>
+    <Source>
+        <Name>font-indic-ttf</Name>
+        <Packager>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@stroblindustries.com</Email>
+        </Packager>
+        <License>OFL-1.0</License>
+        <PartOf>desktop.font</PartOf>
+        <Summary xml:lang="en">Free Truetype fonts for Indian Languages</Summary>
+        <Description xml:lang="en">Free Truetype font pack for Indian languages like Bengali, Devanagari, Gujarati, Kannada, Malayalam, Oriya, Punjabi, Tamil, Telugu.
+</Description>
+        <Archive type="binary" sha1sum="79eb0752a961b8e0d15c77d298c97498fbc89c5a">https://solus-project.com/sources/README.Solus</Archive>
+    </Source>
+    <Package>
+        <Name>font-indic-ttf</Name>
+        <Summary xml:lang="en">Free Truetype fonts for Indian Languages</Summary>
+        <Description xml:lang="en">Free Truetype font pack for Indian languages like Bengali, Devanagari, Gujarati, Kannada, Malayalam, Oriya, Punjabi, Tamil, Telugu.
+</Description>
+        <PartOf>desktop.font</PartOf>
+        <Files>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-bengali/90-ttf-bengali-fonts.conf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-bengali/JamrulNormal.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-bengali/LikhanNormal.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-bengali/MuktiNarrow.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-bengali/MuktiNarrowBold.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-bengali/ani.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-bengali/lohit_as.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-bengali/lohit_bn.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-bengali/mitra.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-devanagari/90-ttf-devanagari-fonts.conf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-devanagari/Samyak-Devanagari.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-devanagari/Sarai_07.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-devanagari/chandas1-2.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-devanagari/gargi.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-devanagari/kalimati.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-devanagari/lohit_hi.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-devanagari/lohit_kok.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-devanagari/lohit_ks.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-devanagari/lohit_mai.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-devanagari/lohit_mr.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-devanagari/lohit_ne.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-devanagari/lohit_sd.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-devanagari/nakula.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-devanagari/sahadeva.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-devanagari/samanata.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-gujarati/90-ttf-gujarati-fonts.conf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-gujarati/Rekha.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-gujarati/Samyak-Gujarati.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-gujarati/aakar-medium.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-gujarati/lohit_gu.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-gujarati/padmaa-Bold.1.1.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-gujarati/padmaa-Medium-0.5.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-gujarati/padmaa.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-kannada/90-ttf-kannada-fonts.conf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-kannada/Kedage-b.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-kannada/Kedage-i.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-kannada/Kedage-n.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-kannada/Kedage-t.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-kannada/Malige-b.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-kannada/Malige-i.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-kannada/Malige-n.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-kannada/Malige-t.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-kannada/lohit_kn.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-malayalam/90-ttf-malayalam-fonts.conf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-malayalam/AnjaliOldLipi.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-malayalam/Dyuthi3.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-malayalam/Kalyani121.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-malayalam/Meera_04.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-malayalam/Rachana_04.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-malayalam/RaghuMalayalamSans2.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-malayalam/Samyak-Malayalam.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-malayalam/lohit_ml.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-malayalam/suruma2.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-oriya/90-ttf-oriya-fonts.conf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-oriya/Samyak-Oriya.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-oriya/lohit_or.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-oriya/utkal.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-punjabi/90-ttf-punjabi-fonts.conf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-punjabi/Saab.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-punjabi/lohit_pa.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-tamil/90-ttf-tamil-fonts.conf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-tamil/Samyak-Tamil.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-tamil/lohit_ta.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-telugu/90-ttf-telugu-fonts.conf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-telugu/Pothana2000.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-telugu/Vemana.ttf</Path>
+            <Path fileType="data">/usr/share/fonts/truetype/ttf-telugu/lohit_te.ttf</Path>
+        </Files>
+    </Package>
+    <History>
+        <Update release="1">
+            <Date>2016-07-03</Date>
+            <Version>0.5.14</Version>
+            <Comment>Packaging update</Comment>
+            <Name>Joshua Strobl</Name>
+            <Email>joshua@stroblindustries.com</Email>
+        </Update>
+    </History>
+</PISI>

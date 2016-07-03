@@ -1,0 +1,14 @@
+name       : font-indic-ttf
+version    : 0.5.14
+release    : 1
+source     :
+    - http://stroblindustries.com/solus-tarballs/font-indic-ttf-0.5.14.tar.gz : 5f5c3817debf1c43e7acefa1562f1d6083d980fdfdd13687d687a618b4de2945
+license    : OFL-1.0
+component  : desktop.font
+summary    : Free Truetype fonts for Indian Languages
+description: |
+    Free Truetype font pack for Indian languages like Bengali, Devanagari, Gujarati, Kannada, Malayalam, Oriya, Punjabi, Tamil, Telugu.
+install    : |
+    fontDir=$installdir/usr/share/fonts/truetype/
+    install -dm0755 $fontDir
+    mv $workdir/ttf* $fontDir
